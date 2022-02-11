@@ -9,3 +9,10 @@ let sum = a + b;
 
 
 console.log (sum)
+
+String('Cosmo')
+Number(33)
+Boolean("Do you like dogs?")
+Array("cats","dogs","birds","snakes")
+
+console.log (favNum)
