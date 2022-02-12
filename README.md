@@ -25,3 +25,7 @@ TODO: **Achievement 2 - Before and After**
   So far I've declared a few variables. Am playing around with the console to understand what it does a bit better. 
 
   Watched a video to better understand variables. [7: How to Create Variables in JavaScript](https://www.youtube.com/watch?v=9aGIAL16DL4&t=361s) by Dani Krossing 
+
+  This activity has actually really helped to visialize some of the things that one is able to do with JavaScript. 
+
+  Been using plenty of Youtube videos to help. Will link underneath. 
