@@ -28,4 +28,12 @@ TODO: **Achievement 2 - Before and After**
 
   This activity has actually really helped to visialize some of the things that one is able to do with JavaScript. 
 
-  Been using plenty of Youtube videos to help. Will link underneath. 
+  Been using plenty of Youtube videos to help. Will link underneath.
+
+  [JavaScript the Basics - Increment and Decrement Operator](https://www.youtube.com/watch?v=d4W6-mphL7c) by Rob Merrill
+
+  [JavaScript Template Literals](https://www.youtube.com/watch?v=NgF9-pdTDGs) by Programming with Mosh
+
+  [27: JavaScript logical operators - Learn JavaScript front-end programming](https://www.youtube.com/watch?v=ackzdRy_nJw&t=2s) by Dani Krossing 
+
+  [JavaScript Tutorial For Beginners #11 - Booleans in JavaScript](https://www.youtube.com/watch?v=B4ZCFdrBmbE&t=191s) by The Net Ninja
